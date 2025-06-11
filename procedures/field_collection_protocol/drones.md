@@ -161,39 +161,6 @@ conditions.
 **Visual inspection of drone and equipment.** Perform a visual inspection of the drone
 and equipment after landing.
 
-# OPERATION PLANNING
-## Operational Environment
-**Check area.** Ensure no-fly zones and NOTAMs are checked. Assess topography for ground
-obstacles and airspace visibility.
-
-**Notify third parties.** Inform conservation park of planned locations, heights, and times. 
-
-**Check weather forecast (droneweather.xyz).** Check weather forecast on
-droneweather.xyz, temperature (-10° to 40° C), wind (< 10 m/s), rain (up to light drizzle),
-visibility (more than 5km), and Kp-index (max 5).
-
-## Crew
-**Assign crew roles.** Ensure the crew is aware of their roles, including pilot, assistant
-pilot, and ground crew.
-### Roles:
-1. **Remote Pilot in Command (RPIC):** Responsible for the safe operation of the drone.
-2. **Pilot Assistant:** Assists the RPIC with situational awareness, including monitoring airspace, ground conditions, and wildlife. Handles communication between the RPIC and third parties.
-3. **Airspace Observer:** Monitors the airspace for other aircraft and ensures the drone remains within the flight geography. Provides situational awareness to the RPIC.
-4. **Ground Crew:** Assists with equipment setup, packing, and other logistical tasks, and ensures the safety of the operational area by monitoring for ground obstacles and wildlife.
-
-**Agree on mission plan with team,** including the flight path, waypoints, and areas of
-interest.
-
-## Regulations
-**Ensure operational limit.** Ensure operations are within 2 km from the pilot and within
-flight geography.
-
-## Equipment
-**Check drone and equipment.** Perform visual inspection of the drone (cracked propellers,
-smooth motors) and transmitter. Ensure SD-cards are empty and ready for logging. Check
-batteries for drone and transmitter.
-
-**Pack equipment:** Ensure all items on the equipment list are packed.
 
 ## POST-OPERATION
 1. **Inform conservation park** after
