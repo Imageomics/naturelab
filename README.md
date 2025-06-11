@@ -126,5 +126,7 @@ Ready to contribute to the future of conservation technology? We welcome:
 - **Conservation applications** and real-world deployment scenarios
 
 **Contact**: kline dot 377 @ osu dot edu
-**Project Updates**: 
+
+**Project Updates**: [https://github.com/Imageomics/naturelab](GitHub)
+
 **Funding**: ICICLE (NSF AI Institute for Intelligent Cyberinfrastructure)
