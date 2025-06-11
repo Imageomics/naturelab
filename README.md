@@ -2,21 +2,36 @@
 
 *NatureLab: Bridging Digital and Natural Worlds*
 
-Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling
+Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling. 
 
----
 
-## Long-Term Vision
+## Long-Term Vision: The Wilds Biological Research Field Station
+We are developing [The Wilds](https://www.thewilds.org/) as a **living laboratory for technology and nature research**, supporting long-term transdisciplinary multimodal projects across diverse research areas:
 
-### Digital Twin Development
-We are developing a comprehensive **digital twin of The Wilds** — a 10,000-acre safari park in southeastern Ohio managed by the Columbus Zoo. This digital ecosystem will serve as a powerful tool for conservation planning, enabling researchers and wildlife managers to:
+**Exotic Endangered Species Research**
+- Endangered ungulates, rhinos, and carnivores 
+- Behavior studies and individual identification
+- Land-use pattern analysis
+
+**Conservation and Restoration Ecology**
+- Invasive species control and native biodiversity monitoring
+- Habitat assessment and management
+- Endangered prairie habitat protection
+
+
+![](image/wilds1.png)
+Photo Credit: The Wilds
+
+
+## Digital Twin Development
+Our work centers on developing a comprehensive **digital twin of The Wilds** — this 10,000-acre former strip mine in southeastern Ohio managed by the Columbus Zoo. This digital ecosystem will serve as a powerful tool for conservation planning, enabling researchers and wildlife managers to:
 
 - **Test conservation strategies** in virtual environments before real-world implementation
 - **Optimize sensor deployment** for maximum ecological insight with minimal animal disturbance  
 - **Predict ecosystem responses** to environmental changes and management decisions
 - **Train and validate** AI models for biodiversity monitoring at scale
 
-### Multimodal AI for Biodiversity
+## Multimodal AI for Biodiversity
 Our research aims to advance the field of **multimodal AI for environmental monitoring** by creating datasets and models that can:
 
 - **Synthesize information** across sensor modalities (visual, acoustic, GPS, satellite, environmental)
@@ -24,7 +39,7 @@ Our research aims to advance the field of **multimodal AI for environmental moni
 - **Support autonomous ecosystem monitoring** with minimal human intervention
 - **Scale conservation efforts** through AI-assisted wildlife management
 
-### Impact Beyond The Wilds
+## Impact Beyond The Wilds
 This work establishes a **replicable framework** for digital twin development in conservation settings worldwide. Our open datasets and methodologies will enable:
 
 - **Global conservation applications** across diverse ecosystems and species
@@ -32,7 +47,7 @@ This work establishes a **replicable framework** for digital twin development in
 - **Collaborative research platform** connecting ecology, computer science, and conservation communities
 - **Evidence-based conservation** through data-driven decision making
 
----
+
 
 ## Summer 2025 Proof-of-Concept
 
@@ -47,13 +62,16 @@ This summer represents our **first step** toward the digital twin vision. We're 
 
 ### Sensor Network Deployment
 
-| Sensor Type | Data Collected | Duration | Target Species |
-|-------------|----------------|----------|----------------|
-| **GPS Ear Tags** | Hourly location + ID | Continuous | Pere David's deer |
-| **Quadcopter Drones** | Behavioral videos | 2-3 days, 4 hrs total | Zebras, giraffes, onagers, and phorses |
-| **Fixed-Wing Drones** | Aerial photos + LiDAR | Single 2-hour session | Landscape + all species |
-| **Camera Traps** | Motion-triggered photos/video | 1 week continuous | All species (exotic + native) |
-| **Bioacoustic Monitors** | Continuous audio recording | 1 week continuous | Birds, insects, ungulate vocalizations |
+![Sensor Network Overview](image/multi-modalatthewilds.png)
+Senor network deployment. Clockwise: satellite, camera trap, AudioMoth bioacoustic monitor, GPS ear-tag Moovement Platform, and LiDAR-equipped fixed-wing drone. 
+
+| Sensor Type | Data Collected | Duration | Target Species | Specs |
+|-------------|----------------|----------|----------------|-------|
+| **GPS Ear Tags** | Hourly location + ID | Continuous | Pere David's deer | [Moovement Platform](https://www.moovement.com.au/farm-management-platform)
+| **Quadcopter Drones** | Behavioral videos | 2-3 days, 4 hrs total | Zebras, giraffes, onagers, phorses, African wild dogs | [Parrot Anafi](), [ModalAI Sentinal](https://www.modalai.com/pages/sentinel?srsltid=AfmBOoojDDB-RDpyZUWRYVmZk6t-TLWytEZWsvvTvyCZ9BEoYuqriol8)
+| **Fixed-Wing Drones** | Aerial photos + LiDAR | Single 2-hour session | Landscape + all species | LiDAR sensor |
+| **Camera Traps** | Motion-triggered photos/video | 1 week continuous | All species (exotic + native) | Various models including [GardePro](https://www.trailcampro.com/products/gardepro-t5ng-solar-panel-package)
+| **Bioacoustic Monitors** | Continuous audio recording | 1 week continuous | Birds, insects, ungulate vocalizations | [AudioMoth](https://www.openacousticdevices.info/) devices
 | **Satellite Imagery** | Landscape monitoring | Continuous archive | Vegetation + land use patterns |
 | **Weather Station** | Environmental conditions | Continuous | Context for all other data |
 
@@ -73,7 +91,7 @@ We're testing the **ICICLE cyber-infrastructure** for autonomous monitoring, inc
 - Edge AI deployment for on-site data processing
 - Sensor fusion techniques for multimodal data integration
 
----
+
 
 ## Collaboration Opportunities
 
@@ -103,18 +121,7 @@ We invite collaborators to help shape this research and maximize its impact:
 - **Collaborative research** with interdisciplinary teams
 - **Student involvement** in cutting-edge conservation technology
 
----
 
-## The Wilds as a Living Laboratory
-
-**Location**: 10,000-acre former strip mine in southeastern Ohio  
-**Management**: Columbus Zoo and Aquarium  
-**Species**: 30+ rare and endangered species from Africa and Asia  
-**Mission**: Habitat restoration and biodiversity conservation research
-
-The Wilds provides a unique controlled environment where we can test advanced monitoring technologies while contributing directly to conservation efforts. This partnership establishes The Wilds as a **biological research station** and **living laboratory** for research at the intersection of technology and nature.
-
----
 
 ## Get Involved
 
@@ -125,8 +132,11 @@ Ready to contribute to the future of conservation technology? We welcome:
 - **Technical expertise** in AI, robotics, and sensor networks
 - **Conservation applications** and real-world deployment scenarios
 
-**Contact**: kline dot 377 @ osu dot edu
+**Contact**: Jenna Kline, kline.377@osu.edu
 
-**Project Updates**: [https://github.com/Imageomics/naturelab](GitHub)
+**Website**: [NatureLab at The Wilds](https://github.com/Imageomics/naturelab)
 
-**Funding**: ICICLE (NSF AI Institute for Intelligent Cyberinfrastructure)
+**Funding**: ICICLE (NSF AI Institute for Intelligent Cyberinfrastructure) and Imageomics (NSF HDR Institute: Imageomics: A New Frontier of Biological Information Powered by Knowledge-Guided Machine Learning).
+
+![](image/wilds2.png)
+Photo Credit: The Wilds
