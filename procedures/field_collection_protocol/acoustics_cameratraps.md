@@ -2,7 +2,7 @@
 *Adapted from fieldwork protocols developed by the Koa team for the 2025 Experiential Introduction to AI and Biodiversity course, in collaboration with NEON, ABC Center, and Imageomics.*
 
 
-### Field Protocol Overview
+## Field Protocol Overview
 
 **Equipment per deployment:**
 - Camera traps with paired SD cards
@@ -14,9 +14,10 @@
 - Multi-tool/wrench set
 - Multimeter for battery testing
 
-### Site Setup (Initial Deployment)
+## Site Setup (Initial Deployment)
+TO DO: Add photos illustrating steps here
 
-#### Camera Trap Deployment
+### Camera Trap Deployment
 1. **Site Selection & Setup**
    - Select monitoring locations based on wildlife corridors, water sources, and habitat features. Confirm with conservation experts at The Wilds.
     - Ensure site is accessible and safe for equipment deployment
@@ -30,7 +31,7 @@
    - Test trigger by waving hand in front of sensor
    - Record camera ID and SD card pairing in field notebook, and back up CSV to OSC.
 
-#### AudioMoth Deployment
+### AudioMoth Deployment
 1. **Site Selection**
    - Place AudioMoths to capture diverse acoustic environments
    - Mount at eye-level (approximately 5 feet) on fence posts or trees using zip ties
@@ -45,9 +46,9 @@
    - Test recording function before final deployment
    - Record serial number, GPS coordinates, and deployment details in field notebook, and back up CSV to OSC.
 
-### Regular Maintenance Protocol
+## Regular Maintenance Protocol
 
-#### Camera Trap SD Card Replacement
+### Camera Trap SD Card Replacement
 
 **At each camera location:**
 1. Approach camera and record location ID in field notebook
@@ -64,7 +65,7 @@
 8. Wait 15 seconds for initialization (red light stops flashing)
 9. Test trigger with hand wave
 
-#### AudioMoth SD Card Replacement
+### AudioMoth SD Card Replacement
 
 **At each AudioMoth location:**
 1. Locate AudioMoth using GPS coordinates
@@ -78,7 +79,7 @@
 5. Turn device on and verify recording status (LED indicators)
 6. Record new SD card ID and deployment time
 
-#### Equipment Checks
+### Equipment Checks
 
 **Camera Traps:**
 - Remove spider webs and debris from lens and sensor
@@ -92,9 +93,9 @@
 - Test battery level
 - Ensure secure mounting
 
-### Data Management
+## Data Management
 
-#### Naming Conventions
+### Naming Conventions
 
 **Site Identification:** (TO FINALIZE)
 - Use descriptive site codes (e.g., NP = North Pasture, SF = South Forest, WP = Wetland Pond)
@@ -110,7 +111,7 @@
 - Camera SD cards: [Color]-[Size]-[Number]-[A/B] (e.g., R-64-01-A)
 - AudioMoth SD cards: AM-[Size]-[Number]-[A/B] (e.g., AM-32-05-B)
 
-#### Folder Structure
+### Folder Structure
 ```
 TheWilds/
 ├── Camera-traps/
@@ -130,7 +131,7 @@ TheWilds/
     └── [YYYY-MM-DD]/
 ```
 
-#### Required Metadata Spreadsheets
+### Required Metadata Spreadsheets
 
 **Camera Trap Deployment Log:**
 - Camera ID, Site ID, GPS coordinates, habitat type, mounting height, deployment date, retrieval date, notes
@@ -147,7 +148,7 @@ TheWilds/
 **Site Location Master:**
 - Site ID, descriptive name, GPS coordinates, habitat description, access notes, deployment history
 
-### Field Safety & Best Practices
+## Field Safety & Best Practices
 
 - Always inform supervisor of field schedule and expected return
 - Carry communication device (cell phone/radio)
@@ -157,7 +158,7 @@ TheWilds/
 - Weather monitoring - avoid deployments during severe weather
 - Respect all facility rules regarding animal enclosures and restricted areas
 
-### Data Transfer & Storage
+## Data Transfer & Storage
 
 1. **Immediate Processing:**
    - Transfer SD card data to secure storage upon return from field
@@ -175,7 +176,7 @@ TheWilds/
    - Note any issues with specific cameras or AudioMoths
    - Schedule maintenance as needed
 
-### Troubleshooting
+## Troubleshooting
 
 **Camera Issues:**
 - No photos: Check battery, SD card seating, detection settings
