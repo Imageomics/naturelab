@@ -59,6 +59,7 @@ This summer represents our **first step** toward the digital twin vision. We're 
 ### Sensor Network Deployment
 
 ![Sensor Network Overview](image/multi-modalatthewilds.png)
+
 Senor network deployment. Clockwise: satellite, camera trap, AudioMoth bioacoustic monitor, GPS ear-tag Moovement Platform, and LiDAR-equipped fixed-wing drone. 
 
 | Sensor Type | Data Collected | Duration | Target Species | Specs |
