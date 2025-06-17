@@ -1,4 +1,4 @@
-# NatureLab: Bridging Digital and Natural Worlds
+# Smart NatureLab: Bridging Digital and Natural Worlds
 *Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling at The Wilds.* 
 
 ## Long-Term Vision: The Wilds Biological Research Field Station
