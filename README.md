@@ -1,9 +1,8 @@
-# NatureLab at The Wilds
+# Smart NatureLab: Bridging Digital and Natural Worlds
+*Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling at The Wilds.* 
 
-*NatureLab: Bridging Digital and Natural Worlds*
-
-Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling. 
-
+![](image/wilds1.png)
+Photo Credit: The Wilds
 
 ## Long-Term Vision: The Wilds Biological Research Field Station
 We are developing [The Wilds](https://www.thewilds.org/) as a **living laboratory for technology and nature research**, supporting long-term transdisciplinary multimodal projects across diverse research areas:
@@ -17,10 +16,6 @@ We are developing [The Wilds](https://www.thewilds.org/) as a **living laborator
 - Invasive species control and native biodiversity monitoring
 - Habitat assessment and management
 - Endangered prairie habitat protection
-
-
-![](image/wilds1.png)
-Photo Credit: The Wilds
 
 
 ## Digital Twin Development
@@ -63,6 +58,7 @@ This summer represents our **first step** toward the digital twin vision. We're 
 ### Sensor Network Deployment
 
 ![Sensor Network Overview](image/multi-modalatthewilds.png)
+
 Senor network deployment. Clockwise: satellite, camera trap, AudioMoth bioacoustic monitor, GPS ear-tag Moovement Platform, and LiDAR-equipped fixed-wing drone. 
 
 | Sensor Type | Data Collected | Duration | Target Species | Specs |
