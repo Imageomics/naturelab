@@ -1,6 +1,6 @@
 # Data Storage Protocols
 
-At the end of each data collection period, back up all data to OSC. For bioacoustic monitors and camera traps, data will be backed up once SD card is retrieved. For drone missions, data will be backed up after each flight.
+At the end of each data collection period, back up all data to OSC. For bioacoustic monitors and camera traps, data will be backed up once SD card is retrieved. For drone missions, data will be backed up after each flight,
 
 ## Permanent Data Storage in [OSC](https://osc.edu/)
 Use Globus or rsync to backup data to OSC from SD cards or other storage devices. The data will be stored in the following directory structure:
@@ -75,7 +75,7 @@ TheWilds/
 
 ```
 ### Metadata Standards
-Maintain a metadata file for each sensor deployment, including:
+Maintain a metadata file for each sensor deployment collected using Jotform, including:
 - Sensor ID
 - Deployment date and time
 - Retrieval date and time
