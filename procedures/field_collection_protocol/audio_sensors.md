@@ -40,8 +40,8 @@ Refer to Song Meter app for detailed instructions.
 
    Song Meter ID | Recording Schedule|
    |----------------|-------------------|
-   | SM01          | Record birds/frogs from sunrise to sunset |
-   | SM02          | Record birds/frogs from sunset to sunrise |
+   | SM01          | Record birds/frogs 1 hr during sunrise and 1 hr during sunset |
+   | SM02          | Record birds/frogs 1 hr during sunrise and 1 hr during sunset  |
    | SM03          | Record birds/frogs 5 minutes every hour 24/7 |
    | SM04          | Record birds/frogs 5 minutes every hour 24/7 |
 

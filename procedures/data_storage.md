@@ -13,13 +13,11 @@ TheWilds/
 ├── site_locations.csv
 ├── field_notes/
 │   └── YYYY-MM-DD/
-│       ├── daily_log.md
-│       ├── weather_conditions.txt
 │       └── team_notes.txt
 │
 ├── camera_traps/
+│   └── jotform_entries.csv
 │   └── [site_id]_[camera_id]/
-│       ├── jotform_entries.csv
 │       └── deployments/
 │           └── [sd_card_id]_[deploy_date]_[retrieve_date]/
 │               ├── images/
@@ -32,8 +30,8 @@ TheWilds/
 │                   └── image_metadata.csv
 │
 ├── bioacoustics/
-│   └── [sensor_serial]/
-│       ├── jotform_entries.csv
+|   ├── jotform_entries.csv
+│   └── [site_id_sensor_id]/
 │       └── deployments/
 │           └── [site_id]_[deploy_date]_[retrieve_date]/
 │               └── [sd_card_id]/
