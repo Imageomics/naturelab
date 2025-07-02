@@ -45,19 +45,14 @@ TheWilds/
 │                       └── audio_metadata.csv
 │
 ├── drones/
-│   └── [mission_name]/
-│       └── flights/
-│           └── YYYY-MM-DD_[flight_number]/
-│               ├── video_files/
-│               │   ├── VID_001.mp4
-│               │   └── ...
-│               ├── lidar_files/
-│               │   ├── LAS_001.las
-│               │   └── ...
-│               └── metadata/
-│                   ├── flight_log.csv
-│                   ├── weather_conditions.txt
-│                   └── gps_track.gpx
+│   └── YYYYMMDD_dronemodel_[flight_number]/
+│       ├── video_files/
+│       │   ├── VID_001.mp4
+│       │   └── ...
+│       └── metadata/
+│           ├── mission_notes.txt (include flight objectives, observations, lead and co-pilot, drone used)
+│           ├── flight_log.json
+│           └── flight_path_map.png
 │
 └── movement_platform/
     └── deployments/
