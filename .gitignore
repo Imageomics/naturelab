@@ -1,0 +1,6 @@
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
