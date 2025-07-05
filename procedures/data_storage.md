@@ -18,31 +18,23 @@ TheWilds/
 ├── camera_traps/
 │   └── jotform_entries.csv
 │   └── [site_id]_[camera_id]/
-│       └── deployments/
 │           └── [sd_card_id]_[deploy_date]_[retrieve_date]/
 │               ├── images/
 │               │   ├── IMG_001.jpg
 │               │   ├── IMG_002.jpg
 │               │   └── ...
-│               └── metadata/
-│                   ├── camera_settings.txt
-│                   ├── deployment_log.csv
-│                   └── image_metadata.csv
+│               └── metadata.txt # include any notes about the deployment and the sensor's settings 
 │
 ├── bioacoustics/
 |   ├── jotform_entries.csv
 │   └── [site_id_sensor_id]/
-│       └── deployments/
 │           └── [site_id]_[deploy_date]_[retrieve_date]/
 │               └── [sd_card_id]/
 │                   ├── audio_files/
 │                   │   ├── REC_001.wav
 │                   │   ├── REC_002.wav
 │                   │   └── ...
-│                   └── metadata/
-│                       ├── sensor_settings.txt
-│                       ├── deployment_log.csv
-│                       └── audio_metadata.csv
+│                   └── metadata.csv # include any notes about the deployment and the sensor's settings 
 │
 ├── drones/
 │   └── YYYYMMDD_dronemodel_[flight_number]/
