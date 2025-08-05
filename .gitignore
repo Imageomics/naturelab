@@ -4,3 +4,6 @@
 *.tmp
 *.temp
 .cache/
+
+# pycache files
+__pycache__/
