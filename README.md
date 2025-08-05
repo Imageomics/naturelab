@@ -1,4 +1,4 @@
-# Smart NatureLab: Bridging Digital and Natural Worlds
+# SmartWilds: Bridging Digital and Natural Worlds
 *Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling at The Wilds.* 
 
 ![](image/wilds1.png)
