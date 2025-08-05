@@ -70,3 +70,5 @@ Maintain a metadata file for each sensor deployment collected using Jotform, inc
 - Equipment settings (camera model, bioacoustic sensor settings)
 - Notes on any issues or anomalies observed during deployment
 - Team members involved in deployment and retrieval
+
+See metadata template.
