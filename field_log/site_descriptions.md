@@ -54,5 +54,8 @@ TW08
 - **Habitat Description:** Mounted on a fence with dense vegetation, near edge of the pasture near lake
 - **Reason for Selection:** Capture bird activity in different part of the pasture, put up SM04 with recording hourly
 
-
-
+TW09
+- **Descriptive Name:** Dock
+- **GPS Coordinates:** 39.49.6789, 081.44.5000
+- **Habitat Description:** Dock area with open water, overlooking the lake
+- **Reason for Selection:** Easy access for maintenance, capture takin and pdeer activity in the lake, set up camera trap CT01 facing left and CT05 facing right towards the lake
