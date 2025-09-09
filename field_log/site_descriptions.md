@@ -59,3 +59,9 @@ TW09
 - **GPS Coordinates:** 39.49.6789, 081.44.5000
 - **Habitat Description:** Dock area with open water, overlooking the lake
 - **Reason for Selection:** Easy access for maintenance, capture takin and pdeer activity in the lake, set up camera trap CT01 facing left and CT05 facing right towards the lake
+
+TW10
+- **Descriptive Name:** Fence near lake entrance
+- **GPS Coordinates:** 
+- **Habitat Description:** Mounted on a fence near the entrance to the lake, with dense vegetation
+- **Reason for Selection:** Capture pdeer activity in lake to compliment view from TW02

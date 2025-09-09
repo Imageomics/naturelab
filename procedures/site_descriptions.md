@@ -54,5 +54,24 @@ TW08
 - **Habitat Description:** Mounted on a fence with dense vegetation, near edge of the pasture near lake
 - **Reason for Selection:** Capture bird activity in different part of the pasture, put up SM04 with recording hourly
 
+TW09
+- **Descriptive Name:** Dock (left)
+- **GPS Coordinates:** 
+- **Habitat Description:** Mounted on post supporting dock roof, overlooking the lake
+- **Reason for Selection:** High deer and takin activity observed at the lake
+- **Reason for Selection:** Capture animal activity around the dock area
+
+TW10
+- **Descriptive Name:** Dock (right)
+- **GPS Coordinates:**
+- **Habitat Description:** Mounted on post supporting dock roof, overlooking the lake
+- **Reason for Selection:** High deer activity observed at the lake,
+- **Reason for Selection:** Capture animal activity in lake shore area
 
 
+TW11
+- Fence near lake entrance 
+- **Descriptive Name:** Lake Entrance Fence
+- **GPS Coordinates:** 
+- **Habitat Description:** Mounted on a fence overlooking the lake near entrance to the pasture
+- **Reason for Selection:** Capture animal activity near the lake entrance, particularly deer and other ungulates
