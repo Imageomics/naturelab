@@ -1,5 +1,10 @@
 # SmartWilds: Bridging Digital and Natural Worlds
-*Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling at The Wilds.* 
+*Building the future of biodiversity monitoring through multimodal AI and digital ecosystem modeling at The Wilds.*
+
+> **UPDATE! New Dataset Available**
+>
+> 📄 **Paper**: [SmartWilds: A Multimodal Dataset for Wildlife Monitoring](https://arxiv.org/abs/2509.18894)
+> 🤗 **Dataset**: [SmartWilds Collection on Hugging Face](https://huggingface.co/collections/imageomics/smartwilds)
 
 ![](image/wilds1.png)
 Photo Credit: The Wilds
